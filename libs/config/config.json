@@ -1,0 +1,11 @@
+{
+  "Log": {
+    "Level": "info"
+  },
+  "Api": {
+    "Baseurl": [
+      "https://www.xn--nos792g.com"
+    ],
+    "Balance": "round"
+  }
+}
